@@ -9,4 +9,4 @@
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=coredex-source&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coredex-source&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coredex-source&layout=compact&langs_count=8&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
