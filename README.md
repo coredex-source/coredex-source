@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on multiple projects based on various languages.
 - 🌱 I’m currently learning java and web designing.
 - 💬 Ask me about anything you want to.
-- 📫 How to reach me: Discord: coredex_source
+- 📫 How to reach me: [Discord](https://dsc.gg/coredex-source)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Programmers are sleep deprived 24/7.
 
